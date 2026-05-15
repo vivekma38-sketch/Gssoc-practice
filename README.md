@@ -1,2 +1,3 @@
-# Gssoc-practice
-open source work
+# GSSOC Practice
+
+This is my first GitHub repository for learning open source contribution.
